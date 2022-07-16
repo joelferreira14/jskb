@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Plate")(type "KiCad")(uri "${KIPRJMOD}/Plate.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "/home/joelferreira14/Other/jskbd/Logo.pretty")(options "")(descr ""))
+)
