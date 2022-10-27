@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Jocket_Split_LP_Plate.kicad_pro",
+    "filename": "Jocket_Split_LP_Plate_02.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,7 +466,7 @@
       "idf": "",
       "netlist": "../../../../",
       "specctra_dsn": "../../../../Documents/Jocket_Split_LP.dsn",
-      "step": "../Board/Jocket_Split_LP-footprint/3d/Plate2.step",
+      "step": "../../../Plate2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
