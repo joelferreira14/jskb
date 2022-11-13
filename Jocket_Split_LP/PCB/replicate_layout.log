@@ -1,0 +1,14 @@
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 312:Plugin executed on: 'linux'
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 313:Plugin executed with python version: '3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]'
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 314:KiCad build version: 6.0.2+dfsg-1
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 315:Plugin version: 1.2.2
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 316:Frame repr: <wx._core.Frame object at 0x7f8654396680>
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 340:Preparing replicator with SW1 as a reference
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 364:source anchor footprint is 'SW1'
+Located on: []
+With filenames: []
+With sheet_id:[]
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 371:Corresponding footprints are 
+[('SW1', [])]
+11-13 10:11:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 383:Showing dialog

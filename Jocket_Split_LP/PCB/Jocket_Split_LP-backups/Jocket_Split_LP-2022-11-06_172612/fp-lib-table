@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Jocket_Split_LP-footprint")(type "KiCad")(uri "${KIPRJMOD}/Jocket_Split_LP-footprint")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "/home/joelferreira14/Other/jskb/Logo.pretty")(options "")(descr ""))
+)

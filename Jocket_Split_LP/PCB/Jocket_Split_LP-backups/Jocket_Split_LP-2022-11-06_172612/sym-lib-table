@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Jocket_Split_LP")(type "KiCad")(uri "${KIPRJMOD}/Jocket_Split_LP.kicad_sym")(options "")(descr ""))
+  (lib (name "Jocket_Split_LP-rescue")(type "KiCad")(uri "${KIPRJMOD}/Jocket_Split_LP-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "Connnn")(type "Legacy")(uri "/home/joelferreira14/Downloads/LIB_53780-0270/53780-0270/KiCad/53780-0270.lib")(options "")(descr ""))
+)
