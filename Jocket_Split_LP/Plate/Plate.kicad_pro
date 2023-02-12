@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Jocket_Split_LP.kicad_pro",
+    "filename": "Plate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -362,51 +362,6 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.4,
-        "via_drill": 0.3,
-        "wire_width": 6.0
-      },
-      {
-        "bus_width": 12.0,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Bat",
-        "nets": [
-          "Net-(S31-PadC1)"
-        ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "via_diameter": 0.4,
-        "via_drill": 0.3,
-        "wire_width": 6.0
-      },
-      {
-        "bus_width": 12.0,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Col",
-        "nets": [
-          "col0",
-          "col1",
-          "col2",
-          "col3",
-          "col4",
-          "col5"
-        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -445,6 +400,7 @@
         "nets": [
           "Bat+",
           "GND",
+          "Net-(S31-PadC1)",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -466,7 +422,7 @@
       "idf": "",
       "netlist": "../../../../",
       "specctra_dsn": "../../../../Documents/Jocket_Split_LP.dsn",
-      "step": "../../../../Documents/Jocket_Split_Boardrev2.step",
+      "step": "../../../../Documents/jskb_plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
